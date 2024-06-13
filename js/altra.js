@@ -2,7 +2,7 @@ var imageUrls = [
     "images/resource/connection.jpeg",
     "images/resource/connection1.jpeg",
     "images/resource/connection2.jpeg",
-    "images/resource/connection3.jpeg",
+    // "images/resource/connection3.jpeg",
     "images/resource/connection4.jpeg",
 ]
 
